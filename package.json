@@ -1,0 +1,19 @@
+{
+  "name": "work-tracker-mobile",
+  "version": "0.1.0",
+  "private": true,
+  "description": "AI Work Tracker mobile client (React Native / TypeScript architecture)",
+  "main": "index.js",
+  "scripts": {
+    "test": "node --test",
+    "typecheck": "tsc --noEmit"
+  },
+  "dependencies": {
+    "react": "^19.0.0"
+  },
+  "devDependencies": {
+    "@types/node": "^22.0.0",
+    "@types/react": "^19.0.0",
+    "typescript": "^5.7.0"
+  }
+}
